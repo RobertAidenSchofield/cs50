@@ -1,0 +1,7 @@
+strstr() 
+strcpy()
+strncpy()
+strcat()
+malloc()
+realloc()
+fwrite()
